@@ -1,0 +1,36 @@
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container-content {
+    display: flex;
+}
+
+.controls-container{
+    height: 400px;
+    border: 5px solid rgb(1, 1, 1);
+    display: flex;
+    align-items: center;
+}
+
+form {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    padding: 20px;
+}
+
+img {
+    border: 5px solid rgb(1, 1, 1);
+}
